@@ -17,4 +17,4 @@ To keep bot alive, [UptimeRobot](https://uptimerobot.com/) was utilised.
 Command to begin the automation process is ```/ticket```
 
 ### 2. Google Colab Notebook
-The ```covid.ipynb``` can be run directly in [Google Colab](https://colab.research.google.com) as long as user fills in their own login credentials.
+The ```covid_diy_efundi.ipynb``` can be run directly in [Google Colab](https://colab.research.google.com) as long as user fills in their own login credentials.
