@@ -7,6 +7,7 @@ Automated Daily Covid-19 Pre-Screening required for Campus access
 - [Selenium library](https://selenium-python.readthedocs.io/)
 - Relevant [ChromeDriver](https://chromedriver.chromium.org/) + [Chrome browser](https://www.google.com/chrome/)
 - Created [Telegram bot](https://core.telegram.org/bots) and got API key/Auth token
+- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
 
 ## Approaches for automation
 ### 1. Telegram Bot
